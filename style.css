@@ -31,3 +31,18 @@ h1 {
   padding: 10px 20px;
   margin-top: 20px;
 }
+
+.treats {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: transparent url('dogtreat.png') repeat;
+  animation: treats 20s linear infinite;
+}
+
+@keyframes treats {
+  from { background-position: 0 0; }
+  to { background-position: 100% 100%; }
+}
