@@ -38,7 +38,7 @@ h1 {
   left: 0;
   width: 100%;
   height: 100%;
-  background: transparent url('dogtreat.png') repeat;
+  background: transparent url('./dogtreat.png') repeat;
   animation: treats 20s linear infinite;
 }
 
