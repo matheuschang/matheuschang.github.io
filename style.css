@@ -1,0 +1,22 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  font-size: 48px;
+}
+
+img {
+  max-width: 100%;
+}
+
+#counter {
+  font-size: 36px;
+  margin-top: 50px;
+}
+
+#add-button {
+  font-size: 24px;
+  padding: 10px 20px;
+  margin-top: 20px;
+}
